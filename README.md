@@ -25,21 +25,6 @@ A modern and responsive e-commerce web application built using **React.js**. Thi
 
 ---
 
-## 📁 Project Structure
-
-src/
-│
-├── assets/ # Images and product data
-├── Components/ # Reusable components
-│ ├── ProductDisplay/
-│ └── BredCrums/
-├── Context/
-│ └── ShopContext.jsx # Global state provider
-├── Pages/
-│ └── Product.jsx # Single product page
-├── App.jsx
-└── main.jsx
----
 
 ## 🚧 Installation & Setup
 
